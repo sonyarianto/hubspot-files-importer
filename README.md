@@ -15,7 +15,7 @@ Quickstart
 require_once __DIR__ . '/vendor/autoload.php';
 require_once __DIR__ . '/HubSpotFilesImporter.php';
 
-$hubspot = new HubSpotFileDiscovery("PUT_YOUR_HUBSPOT_TOKEN_HERE");
+$hubspot = new HubSpotFileDiscovery("YOUR_HUBSPOT_TOKEN_HERE");
 
 // quick samples of available methods
 
