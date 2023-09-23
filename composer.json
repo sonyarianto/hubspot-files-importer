@@ -1,0 +1,5 @@
+{
+    "require": {
+        "hubspot/api-client": "^10.1"
+    }
+}
