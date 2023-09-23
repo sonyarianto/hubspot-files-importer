@@ -4,7 +4,7 @@ Doing folders and files import? Maybe our script can help your task.
 ## PHP
 Setup (using Composer)
 
-```
+```bash
 composer require "hubspot/hubspot-php"
 ```
 
