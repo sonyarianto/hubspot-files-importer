@@ -1,5 +1,5 @@
 # hubspot-files-importer
-Doing folders and files import? Maybe our script can help your task.
+Doing folders and files import on HubSpot? Maybe our script can help your task.
 
 ## PHP
 Setup (using Composer)
